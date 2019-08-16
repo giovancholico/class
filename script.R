@@ -19,3 +19,6 @@ plot(statsmallnew$combined_score)
 dev.off()
 
 message("Script ran successfully, all outputs are in the working director")
+
+
+Lets update this bitch
